@@ -1,6 +1,4 @@
-# Incredibox
-The latest source code for Incredibox (as of the V9 Update).
+# Incredibox BDFI EDITION
+Mod By Ele Garza
 
-This was ripped from the Mac application.
-
-Pump it up and chill.
+Idk what im gonna put here so uhhh yea
